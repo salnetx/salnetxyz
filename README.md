@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Sahil. Most folks know me as Sal. I'm a Software engineer working remotely. I love to build apps that solve real life problems.</h2>
+<h2 align="left">Hi 👋! I'm Sahil. Most folks know me as Sal. I'm a Software engineer working remotely.</h2>
 
 ###
 
