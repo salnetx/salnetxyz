@@ -1,3 +1,3 @@
 <h1 align="center">hi there👋🏻</h1>h1?
-## This is Sahil
-![profile](https://i.ibb.co/dDsVYpk/profile.png)
+<h3>This is Sahil</h3>
+<img src="https://i.ibb.co/dDsVYpk/profile.png" />
