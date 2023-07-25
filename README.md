@@ -1,9 +1,9 @@
-<div>
+<h1>
 <h1 align="center">Hi There👋🏻</h1>
 <h2 align="center">
   <img align="center" src="https://i.ibb.co/dDsVYpk/profile.png" />
 </h2>
-</div>
+</h1>
 
 <h3>social</h3>
 <ul>
