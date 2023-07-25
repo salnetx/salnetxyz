@@ -1,4 +1,4 @@
-<h1 align="center">hi There, This is Sahil👋🏻</h1>
+<h1 align="center">Hi There👋🏻</h1>
 <h3>social</h3>
 <ul>
   <li>twitter</li>
