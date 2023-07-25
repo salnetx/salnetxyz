@@ -1,5 +1,4 @@
-<h1 align="center">hi there👋🏻</h1>
-<h3>This is Sahil</h3>
+<h1 align="center">hi There, This is Sahil👋🏻</h1>
 <h3>social</h3>
 <ul>
   <li></li>
