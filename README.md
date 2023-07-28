@@ -1,8 +1,8 @@
 <h2> Hi, I'm Sal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.ibb.co/48pXKgs/Untitled-design-6.png" width="230">
 
-<p><em>Software Enginner at 
-<a href="http://www.unb.br">University of London</a>
+<p><em>SWE
+<a href="http://www.unb.br"></a>
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
 Side Hustle 
