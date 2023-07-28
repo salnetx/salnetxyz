@@ -12,8 +12,8 @@ Side Hustle
 </em>
 </p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/salnetxyz)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/salnetxyz)
+[![Twitter: Sal](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/salnetxyz)
+[![GitHub Sal](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/salnetxyz)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
